@@ -16,7 +16,14 @@
     "express": "^5.1.0",
     "socket.io": "^4.8.1"
   },
+  "dependencies": {
+    "lucide-react": "...",
+    "react": "...",
+    "react-dom": "...",
+    "vite": "^4.4.5"  
+  },
   "devDependencies": {
-    "nodemon": "^3.1.10"
+    "@vitejs/plugin-react": "...",
+    "tailwindcss": "..."
   }
 }
